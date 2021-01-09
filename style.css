@@ -1,0 +1,56 @@
+
+body{
+	background-image: url(backgrnd2.jpg);
+	background-repeat: no-repeat;
+	background-size: 1800px 1200px;
+	font-family: MV Boli;
+}
+
+h1{
+	color: white;
+	margin-right: 80px;
+	margin-left: 80px;
+	text-align: center;
+	font-family: Tempus Sans ITC;
+	background-color: rgba(0,0,0,0.6);
+	padding: 30px;
+	
+}
+
+hr{
+	width: 50%;
+	border-color:black;
+	border-style:solid;
+}
+
+img{
+	width: 150px;
+}
+
+iframe{
+	width: 300px;
+	height: 200px;
+}
+
+div{
+color: white;
+}
+
+
+h1{
+	font-size: 4rem;
+}
+
+div{
+	margin-right: 80px;
+	margin-left: 80px;
+	font-size: 2rem;
+	color: white;
+	background-color: rgba(0,0,0,0.6);
+	padding: 30px;
+}
+
+
+a: link {
+  color: red;
+}
